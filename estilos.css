@@ -1,0 +1,16 @@
+.botonMio {
+    height: 150px;
+    width: 150px;
+    border: 2px solid yellowgreen;
+    background-color: bisque;
+    margin: 30px;
+}
+
+.boton2 {
+    height: 70px;
+    width: 200px;
+    border: 5px solid red;
+    background-color: blue;
+    margin: 30px;
+    color: white;
+}
